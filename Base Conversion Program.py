@@ -395,4 +395,3 @@ while True:
     if continue_var != '':
         break
 
-
